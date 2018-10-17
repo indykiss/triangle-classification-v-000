@@ -26,7 +26,7 @@ class Triangle
       :equilateral
     else if side1 != side2 && side2 != side3 && side1 != side3
       :scalene
-    else if side1 == side2 && side2 == side3 && side1 != side3 || side1 !== side2 && side1 == 3 && side 2 == side3
+    else if side1 == side2 && side2 == side3 && side1 != side3 || side1 !== side2 && side1 == side3 && side 2 == side3
       :isosceles
     end 
   end 
