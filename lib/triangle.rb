@@ -30,6 +30,7 @@ class Triangle
       :isosceles
     end 
   end 
+  end 
 end 
 
   class TriangleError < StandardError
